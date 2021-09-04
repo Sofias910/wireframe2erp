@@ -1,0 +1,89 @@
+.niñio{
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.titulo{
+    font-size: var(--h1);
+    font-family:'Source Sans Pro', sans-serif;
+    color: #ffffff;
+    margin-left: 2rem;
+    }
+
+.uno{
+    font-size: var(--h3); 
+    font-family:'Source Sans Pro', sans-serif;
+    color: var(--gris-claro);
+    margin-left: 2rem;
+    }
+
+.caja-padre {
+    width: 37.5rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    }
+
+.cuadro{
+    background-color: #FFffFF;
+    border-radius: 2rem 2rem 0rem 0rem;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    height: 31rem;
+}
+
+.dos{
+    font-size: var(--texto2); 
+    font-family:'Source Sans Pro', sans-serif;
+    color: var(--gris-claro);
+    margin-left: 2rem;
+    }
+
+.name{
+    font-size: var(--texto1);
+    font-family: 'Source Sans Pro', sans-serif;
+    color: var(--negro);
+    margin-left: 2rem;
+    width: 50%;
+
+    display: flex;
+    align-items: center;
+}
+.dato img{
+    float: right;
+    margin-left: 15rem;
+}
+
+.linea{
+    width: 19rem;
+    height: 0.1rem;
+    background-color:var(--gris-claro);
+    margin: 1rem 2rem 1rem 2rem;
+}
+
+
+.boton{
+    height: 3.8rem;
+    margin: 0rem 2rem 0rem 2rem;
+    background: linear-gradient(313.78deg, #2855ae -3.15%, #7292cf 100%);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boton a{
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: var(--texto1);
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.text{
+    font-size: var(--texto1);
+    font-family: 'Source Sans Pro', sans-serif;
+    color: var(--negro);
+    margin-left: 9rem;
+    padding-top: 1.8rem;
+}

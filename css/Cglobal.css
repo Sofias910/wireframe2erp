@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    background:linear-gradient(313.78deg, #2855AE -3.15%, #7292CF 100%);
+    width:100%;
+    height: 100%;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+:root{
+    /*  Paleta de Colores  */
+    --azul: #345FB4;
+    --celeste: #6789CA;
+    --negro: #313131;
+    --gris: #777777;
+    --gris-claro: #c2c2c2;
+
+    /*  Tamaño de Fuentes  */
+    --h1: 3.4rem;
+    --h3: 2rem;
+    --texto1: 1.6rem;
+    --texto2: 1.2rem;
+}
+
+
+.logo{
+    margin-top:5rem;
+    margin-left:8rem;
+}
+.niño{
+    margin-top: 20rem;
+}
